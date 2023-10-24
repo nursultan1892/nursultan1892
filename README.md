@@ -1,7 +1,7 @@
-### Hi👋, Nursultan Omurkan Uulu
-#### Front-End Developer
 ![Front-End Developer](https://github.com/nursultan1892/nursultan1892/blob/main/LinkedIn%20Banner.png)
 
+### Hi👋, Nursultan Omurkan Uulu
+#### Front-End Developer
 I am Nursultan from Kyrgyzstan with almost two-year experience as Software engineer. Always eager to learn new technologies and love to work with algorithms. I am a person punctual, reliable, honest, cautious and motivated.
 
 Skills: REACT / JS / HTML / CSS
