@@ -1,8 +1,8 @@
 ![Front-End Developer](https://github.com/nursultan1892/nursultan1892/blob/main/LinkedIn%20Banner.png)
 
 ### Hi👋, I'm Nursultan
-I am Nursultan from Kyrgyzstan with almost two-year experience as Software engineer. Always eager to learn new technologies and love to work with algorithms. I am a person punctual, reliable, honest, cautious and motivated.
-<strong>Skills:</strong>
+<p>I am Nursultan from Kyrgyzstan with almost two-year experience as Software engineer. Always eager to learn new technologies and love to work with algorithms. I am a person punctual, reliable, honest, cautious and motivated.</p>
+<div><strong>Skills:</strong></div>
 <img  width='100' src='https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&w=2400&h=2400&rs=1' alt='react-log'/> 
 <img  width='100' src='https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&w=2400&h=2400&rs=1' alt='react-log'/> 
 
