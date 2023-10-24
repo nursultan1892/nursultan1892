@@ -1,6 +1,6 @@
 ### Hi👋, Nursultan Omurkan Uulu
 #### Front-End Developer
-![Front-End Developer](https://media.licdn.com/dms/image/D4D16AQF0zfiaUqat0w/profile-displaybackgroundimage-shrink_350_1400/0/1698148412789?e=1703721600&v=beta&t=B-bVvURdkcOBZGRfi0H0-3gDzlpEd-eMvktW5j7ih1c)
+![Front-End Developer](https://github.com/nursultan1892/nursultan1892/blob/main/LinkedIn%20Banner.png)
 
 I am Nursultan from Kyrgyzstan with almost two-year experience as Software engineer. Always eager to learn new technologies and love to work with algorithms. I am a person punctual, reliable, honest, cautious and motivated.
 
